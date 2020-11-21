@@ -1,6 +1,6 @@
 # PCA Using International Covid-19 data
 
-Perform Principal Component Analysis of daily covid-19 data of 189 countries from January to October 2020 
+Performing Principal Component Analysis on daily covid-19 data of 189 countries from January to October 2020 
 
 <p align="center"><img src="img.jpg" width = "440" height = "256"></p>
 
