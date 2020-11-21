@@ -2,7 +2,7 @@
 
 Performing Principal Component Analysis on daily covid-19 data of 189 countries from January to October 2020 
 
-<p align="center"><img src="img.jpg" width = "440" height = "256"></p>
+<p align="center"><img src="img.jpg" width = "440" height = "356"></p>
 
 This is my notebook using [Daily covid-19 Time-Series by Country Dataset](https://datahub.io/core/covid-19#resource-time-series-19-covid-combined) from January to October 2020. 
 The task was to :
